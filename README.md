@@ -6,4 +6,4 @@
 ### [成绩]
 初赛A, B榜Rank1
 ### [方案记录]
-见documentation.pdf
+[见documentation.pdf](https://github.com/qhykwsw/wutong/blob/master/documentation.pdf)
